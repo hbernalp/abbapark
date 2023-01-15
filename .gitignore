@@ -1,0 +1,25 @@
+/back/node_modules
+/abbapark/node_modules
+# Logs
+/abbapark/logs
+/abbapark/*.log
+/abbapark/npm-debug.log*
+/abbapark/yarn-debug.log*
+/abbapark/yarn-error.log*
+/abbapark/pnpm-debug.log*
+/abbapark/lerna-debug.log*
+
+/abbapark/dist
+/abbapark/dist-ssr
+/abbapark/*.local
+
+# Editor directories and files
+/abbapark/.vscode/*
+/abbapark/!.vscode/extensions.json
+/abbapark/.idea
+/abbapark/.DS_Store
+/abbapark/*.suo
+/abbapark/*.ntvs*
+/abbapark/*.njsproj
+/abbapark/*.sln
+/abbapark/*.sw?
